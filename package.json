@@ -9,12 +9,14 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@videojs/themes": "^1.0.1",
     "next": "12.1.6",
     "react": "18.1.0",
     "react-dom": "18.1.0"
   },
   "devDependencies": {
     "eslint": "8.17.0",
-    "eslint-config-next": "12.1.6"
+    "eslint-config-next": "12.1.6",
+    "video.js": "^7.19.2"
   }
 }
